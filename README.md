@@ -26,7 +26,7 @@ Ukelele keyboard layouts for Mac OS X
 ## `GermanNDK.bundle`
 
 A German keyboard with dead keys removed and a few keys remapped:
-* `~` also available as <kbd>⌥⇧+</kbd>
+* `~` also available as <kbd>⌥⇧+</kbd>  ⌥⇧+
 
 <!--
 
