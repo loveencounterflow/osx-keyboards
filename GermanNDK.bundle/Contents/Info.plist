@@ -8,12 +8,12 @@
 	<string>GermanNDK</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_German copy</key>
+	<key>KLInfo_GermanNDK</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.germanndk.germancopy</string>
+		<string>org.sil.ukelele.keyboardlayout.germanndk.germanndk</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
