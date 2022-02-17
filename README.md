@@ -12,6 +12,7 @@
 
 - [OSX Keyboards](#osx-keyboards)
   - [`GermanNDK.bundle`](#germanndkbundle)
+  - [To Do](#to-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -37,3 +38,10 @@ A German keyboard with dead keys removed and a few keys remapped:
 
 
  -->
+
+
+## To Do
+
+* **[–]** consider to put version string into name thus avoiding conflicts when re-installing existing
+  keyboard
+
