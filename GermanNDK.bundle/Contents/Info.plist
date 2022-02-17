@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.germanndk</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>GermanNDK</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_German copy</key>
@@ -13,7 +13,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..germancopy</string>
+		<string>org.sil.ukelele.keyboardlayout.germanndk.germancopy</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
